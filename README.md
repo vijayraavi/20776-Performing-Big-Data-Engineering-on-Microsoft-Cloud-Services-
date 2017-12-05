@@ -31,10 +31,6 @@ GitHub should not be used to discuss technical content in the course, or how to 
 
 - To address general comments about the course & demos or how to prepare for 20776, please use the MCT forums at https://borntolearn.mslearn.net/mct/general/f/225. This is the MCT Readiness forum for discussions, news, etc. to help you prepare to teach courses and let you collaborate with other instructors.
 
-### Demos in the course
-
-- In order to avoid discrepancies due to interface changes (since we cannot update demos the same way we update labs,) the demos intentionally do not provide step by step instructions. To fully prepare, we encourage the Instructor to familiarize themselves completely with the demos and content prior to teaching the course, and reach out to the MCT forums for guidance and to online Azure technical resources such as the Microsoft Azure forum on MSDN https://social.msdn.microsoft.com/forums/azure for technical questions.
-
 > **MCTs:** Refer to the '20776AGitHubUserGuideforMCTs.pdf' file on the Download Center for detailed instructions for using GitHub. This document is also available on the GitHub repo as [20776A GitHub UserGuide for MCTs](20776AGitHubUserGuideforMCTs.md).  
 
 ### Powershell
